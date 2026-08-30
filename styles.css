@@ -55,20 +55,15 @@ header {
     letter-spacing: -0.03em;
 }
 
-.brand-mark {
-    display: grid;
-    place-items: center;
-    width: 38px;
-    height: 38px;
-    border-radius: 12px;
-    color: white;
-    background: linear-gradient(
-        135deg,
-        #5b5ce2,
-        #8d55ed 50%,
-        #e84b98
-    );
-    box-shadow: 0 8px 25px rgba(108, 80, 240, 0.28);
+.brand-icon {
+    width: 40px;
+    height: 40px;
+    display: block;
+    border-radius: 11px;
+    object-fit: cover;
+    box-shadow:
+        0 5px 15px rgba(0, 0, 0, 0.08),
+        0 10px 25px rgba(108, 80, 240, 0.15);
 }
 
 nav {
