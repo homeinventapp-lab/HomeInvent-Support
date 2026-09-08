@@ -30,6 +30,6 @@ Your URLs will normally be:
 
 Replace any generic support/contact wording with your actual public support email or support process.
 
-Most importantly, verify that the Privacy Policy exactly matches the production app, including CloudKit configuration, iCloud behavior, analytics, diagnostics, subscriptions, and any future SDKs.
+Most importantly, verify that the Privacy Policy exactly matches the production app, including local-only storage (no iCloud/CloudKit in v1), StoreKit subscriptions, Apple Speech, analytics, diagnostics, and any future SDKs.
 
 This site intentionally contains no app source code, secrets, API keys, credentials, or private repository information.
