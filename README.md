@@ -7,6 +7,7 @@ This repository contains the public static support website for HomeInvent.
 - `index.html` — Home / support landing page
 - `support.html` — Support guides
 - `faq.html` — Frequently asked questions
+- `insurance.html` — Insurance Policy Intelligence feature overview
 - `privacy.html` — Privacy Policy
 - `styles.css` — Shared styling
 
